@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto `Restaurant Orders`!
+# Projeto `Restaurant Orders`!
 
 
 <details>
